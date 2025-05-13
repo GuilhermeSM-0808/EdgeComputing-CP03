@@ -9,6 +9,9 @@ Um botão extra foi incluido no projeto para mudar entre os dados exibidos na te
 ## Video explicativo 3min:
 ### https://youtube.com/shorts/onf-w1yfink?feature=share
 
+#Simulador
+## https://wokwi.com/projects/430406172506866689
+
 ## Circuito // Wiring
 ![Imagem do Circuito feito no simulador Wokwi](EdgeComputing_CP03_ControleDeAdega.png)
 
